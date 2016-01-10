@@ -5,8 +5,8 @@
 environment_settings.py
 
 # dev database
-database.sqlite3
-database.sqlite3.bak
+db.sqlite3
+db.sqlite3.bak
 
 *.csv
 
